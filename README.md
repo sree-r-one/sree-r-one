@@ -36,7 +36,7 @@ FastAPI 💻 | Node.js 🚀 | Express.js 🌐
 SQL 🗄️ | MongoDB 📃  
 
 **Infrastructure & DevOps:**  
-Docker 🐳 | Docker Compose ⚙️ | NGINX 🚦 | Kubernetes 🏗️ | Jenkins 🥣 | Linux 🏎️  
+Github 🔱 | Docker 🐳 | Docker Compose ⚙️ | NGINX 🚦 | Kubernetes 🏗️ | Jenkins 🥣 | Linux 🏎️  
 
 **Testing:**  
 Vitest 🧪  
