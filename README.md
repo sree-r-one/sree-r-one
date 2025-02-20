@@ -1,4 +1,4 @@
-## 👋 Hey there, I’m Sree!  
+## 👋 Hey there, Sree here!  
 
 ✨ *Interest. Practice. Purpose. Hope.*  
 
@@ -16,12 +16,10 @@ With a background spanning **automotive systems**, **industrial AR/VR**, and **f
 
 
 ## 🚀 Current Projects & Passions
-- ✈️ **Explore Singapore**: A microservices-based travel app (**Node.js**, **Express**, **Docker**, **NGINX**)  
-- 🏥 **Patient Management System**: Simplifying doctor-patient workflows  
+- ✈️ **Explore Singapore**: A microservices-based travel app (**Node.js**, **FastAPI**, **Express**, **Docker**, **NGINX**)  
 - 🤖 **Robotic Operating System**: A personal deep-dive into robotics and system management  
 - 🛒 **E-commerce Microservices App**: A scalable **.NET**-powered e-commerce platform for my university project  
 - 🏎️ **Automotive Data Systems**: **C++** solutions for Linux-based automotive platforms  
-
 
 ## 🛠️ Tech Stack & Tools  
 
@@ -54,6 +52,7 @@ Lightroom 📸 | Photoshop 🎨 | Premiere Pro 🎬 | Blender 🖌️ | Unity �
 
 
 ## 🎯 2025 Goals  
+- 🎓 Successfully complete my Master’s in Software Engineering at NUS
 - 🚀 **Master C++** for next-gen automotive software  
 - 🌐 **Launch Explore Singapore** as a production-ready microservices platform  
 - 💡 **Contribute to open-source AI/ML projects**  
