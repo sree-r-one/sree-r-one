@@ -1,65 +1,66 @@
-## 👋 Hey there, Sree here!  
+# 👋 Hey there, I'm Sree!
 
-✨ *Interest. Practice. Purpose. Hope.*  
+✨ *Interest. Practice. Purpose. Hope.*
 
 🎯 *Aspiring Software Developer | Master’s in Software Engineering @ National University of Singapore 🇸🇬*  
-💡 *Driven by curiosity—exploring Generative AI, Microservices, Scalable Web Solutions, and everything I haven’t discovered yet.*  
+💡 *Fueled by curiosity—exploring Generative AI, Microservices, CI/CD, Infra-as-Code, and everything in between.*
 
 
-## 💡 A Little About Me  
-With a background spanning **automotive systems**, **industrial AR/VR**, and **full-stack development**, I’ve learned that the best solutions lie at the intersection of **design**, **scalability**, and **performance**. My journey has taken me from building machine vision systems to crafting scalable web apps and designing microservice architectures.  
+## 🧠 About Me
 
-- 🎓 **Master’s in Software Engineering**, NUS  
-- 💻 Proficient in **Java**, **C++**, **Python**, **JavaScript**, and **TypeScript**  
-- 🌟 Passionate about developing **cloud-native solutions**, mastering **microservices**, and diving deep into **horizontal scaling**  
-- 🔍 If I don’t know it yet, **I’m learning it next**  
+With a journey that spans **automotive systems**, **AR/VR**, **robotics**, and **full-stack development**, I thrive at the intersection of **design**, **performance**, and **scale**. Whether it's building microservices, automating infrastructure, or diving into low-level embedded C++, I’m constantly evolving and adapting.
 
-
-## 🚀 Current Projects & Passions
-- ✈️ **Explore Singapore**: A microservices-based travel app (**Node.js**, **FastAPI**, **Express**, **Docker**, **NGINX**)  
-- 🤖 **Robotic Operating System**: A personal deep-dive into robotics and system management  
-- 🛒 **E-commerce Microservices App**: A scalable **.NET**-powered e-commerce platform for my university project  
-- 🏎️ **Automotive Data Systems**: **C++** solutions for Linux-based automotive platforms  
-
-## 🛠️ Tech Stack & Tools  
-
-**Languages:**  
-Java ☕ | C++ 🏎️ | Python 🐍 | JavaScript 💛 | TypeScript 🟦  
-
-**Frontend:**  
-React ⚛️ | Vite ⚡ | Tailwind CSS 🎨 | Figma ✏️  
-
-**Backend:**  
-FastAPI 💻 | Node.js 🚀 | Express.js 🌐  
-
-**Databases:**  
-SQL 🗄️ | MongoDB 📃  
-
-**Infrastructure & DevOps:**  
-Github 🔱 | Docker 🐳 | Docker Compose ⚙️ | NGINX 🚦 | Kubernetes 🏗️ | Jenkins 🥣 | Linux 🏎️  
-
-**Testing:**  
-Vitest 🧪  
-
-**C++ Workflow:**  
-Visual Studio 💡 | CMake 🏗️  
-
-**Auth:**  
-Auth0 🔐  
-
-**Creative Tools:**  
-Lightroom 📸 | Photoshop 🎨 | Premiere Pro 🎬 | Blender 🖌️ | Unity 🎮  
+- 🎓 Pursuing **Master’s in Software Engineering**, NUS  
+- 💻 Experienced in **Java**, **C++**, **Python**, **JavaScript**, **TypeScript**  
+- 🔁 From embedded Linux to scalable web apps & DevOps pipelines  
+- 🔍 If I haven’t mastered it yet, I’ve probably scheduled it for next week
 
 
-## 🎯 2025 Goals  
-- 🎓 Successfully complete my Master’s in Software Engineering at NUS
-- 🚀 **Master C++** for next-gen automotive software  
-- 🌐 **Launch Explore Singapore** as a production-ready microservices platform  
-- 💡 **Contribute to open-source AI/ML projects**  
-- ⚙️ **Implement robust CI/CD pipelines** for scalable systems  
-- 🧩 **Apply design patterns** for clean, maintainable code  
+## 🚀 Projects & Explorations
+
+- ✈️ **Explore Singapore** – Microservices-based travel app using **Node.js**, **FastAPI**, **Express**, **Docker**, **NGINX**  
+- 🤖 **ADAM Robotics Dashboard** – Real-time ROS data visualization & control with containerized CI/CD pipelines  
+- 🛍️ **TradePort** – A university-grade **.NET** e-commerce app following microservice architecture  
+- 🚗 **Smart Vehicle Telematics** – MISRA-compliant C++ for Linux-based automotive control systems  
+- 🧠 **Automatic Post-Editing for Translation** – Leveraging **LLMs + Fuzzy TM** with structured prompts and XML workflows
 
 
-## ⚡ Fun Fact  
-> *"I collect experiences—whether it’s scaling microservices, securing APIs, or riding my motorcycle across new horizons with my better half. 🚴‍♂️"*  
 
+## 🛠️ My Tech Toolbox
+
+| Category                   | Tools & Technologies                                                                 |
+|----------------------------|--------------------------------------------------------------------------------------|
+| 💬 Languages               | Java, C++, Python, JavaScript, TypeScript, Shell                                    |
+| 🖥️ Frontend               | React, Vite, Tailwind CSS, Figma, TipTap Editor                                     |
+| 🌐 Backend                 | Node.js, Express.js, FastAPI, .NET Core, REST APIs                                  |
+| 🗃️ Databases              | MongoDB, PostgreSQL, MS SQL, Redis                                                  |
+| ⚙️ DevOps & Infrastructure | Docker, Docker Compose, Kubernetes, GitHub Actions, Azure DevOps                    |
+| 🧱 Infrastructure as Code  | Terraform, Ansible, GitHub CLI, Git                                                 |
+| 🔐 Auth & Security         | Auth0, JWT, RBAC, OAuth2                                                            |
+| 🔧 Testing & Quality       | Vitest, XUnit, SonarQube, Snyk, ESLint                                              |
+| 💻 Embedded / C++ Workflow | CMake, Visual Studio, Yocto, Makefile, BitBake                                      |
+| 🎨 Creative Stack          | Photoshop, Lightroom, Premiere Pro, Blender, Unity                                 |
+
+
+
+
+## 🎯 2025 Roadmap
+
+- ✅ Complete **MSc in Software Engineering** @ NUS  
+- 🚀 Launch **Explore Singapore** as a production-ready platform  
+- 📈 Contribute to **open-source GenAI / APE projects**  
+- 🧱 Build advanced **CI/CD pipelines** with Docker, GitHub Actions, Terraform  
+- ⚙️ Automate infra with **Ansible + Terraform** (hybrid IaC)  
+- 🧪 Apply robust **testing strategies** across all layers (unit, integration, e2e)  
+- 🚘 Deepen my **C++ mastery** for next-gen automotive & embedded systems  
+
+
+
+## 💬 Let's Connect
+
+Whether you want to collaborate on a DevOps challenge, build AI-powered editors, or just talk shop about bikes, tech, and bold ideas—I’m all ears.
+
+
+## ⚡ Fun Fact
+
+> *“I collect experiences—whether it’s scaling microservices, securing APIs, optimizing C++ for embedded Linux, or riding across new terrains with my better half. 🏍️💨”*
