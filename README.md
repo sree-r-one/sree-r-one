@@ -5,8 +5,7 @@
 🎯 *Aspiring Software Developer | Master’s in Software Engineering @ National University of Singapore 🇸🇬*  
 💡 *Fueled by curiosity—exploring Generative AI, Microservices, CI/CD, Infra-as-Code, and everything in between.*
 
-https://roadmap.sh/card/tall/67e87c5d08b58aed6c960ad1?variant=light&roadmaps=api-design%2Ctypescript%2Cdevops%2Ccpp
-
+[![roadmap.sh](https://roadmap.sh/card/tall/67e87c5d08b58aed6c960ad1?variant=light&roadmaps=api-design%2Ctypescript%2Cdevops%2Ccpp)](https://roadmap.sh)
 
 ## 🧠 About Me
 
