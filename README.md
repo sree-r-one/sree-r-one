@@ -1,65 +1,70 @@
-# 👋 Hey there, Sree here!
+# Hi there, Sree here!
 
-✨ *Interest. Practice. Purpose. Hope.*
+Software Engineer | Backend & DevOps Practitioner | Embedded Systems Explorer  
+MTech in Software Engineering @ National University of Singapore  
+Currently on sabbatical from Continental to deepen my technical foundation and complete my Master’s.
 
-🎯 *Aspiring Software Developer | Master’s in Software Engineering @ National University of Singapore 🇸🇬*  
-💡 *Fueled by curiosity — exploring Embedded Development,Design, Microservices, CI/CD, Infra-as-Code, and everything in between.*
+[![My Learning Roadmap](https://roadmap.sh/card/tall/67e87c5d08b58aed6c960ad1?variant=light&roadmaps=api-design%2Ctypescript%2Cdevops%2Ccpp)](https://roadmap.sh)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67e87c5d08b58aed6c960ad1?variant=light&roadmaps=api-design%2Ctypescript%2Cdevops%2Ccpp)](https://roadmap.sh)
+## My Background
 
+I started my career in manufacturing and testing at GLOBALFOUNDRIES, working closely with machine performance and yield optimization. Over time, I moved into system integration, DevOps, and eventually embedded C++ development at Continental, where I spent nearly 6 years across several roles.
 
-## 🧠 About Me
+In early 2025, I took a sabbatical to pursue a full-time Master’s in Software Engineering at NUS, with the aim of strengthening my backend, cloud, and architecture skills — and building end-to-end production-grade systems with intention and clarity.
 
-With a journey spanning **automotive systems**, **AR/VR**, **robotics**, and **full-stack development**, I thrive at the intersection of **design**, **performance**, and **scale**. Whether it's building microservices, automating infrastructure, or diving deep into embedded C++, I’m constantly evolving.
+This profile tracks that transition: from operational support to product-focused software engineering.
 
-- 🎓 Started my **Master’s in Software Engineering at NUS** in **January 2025**  
-- 🧠 Actively building through a **100 Days of C++** challenge and production-grade project work  
-- 💻 Proficient in **Java**, **C++**, **Python**, **JavaScript**, **TypeScript**  
-- 🔁 From embedded Linux to scalable web apps and cloud-native DevOps pipelines  
-- 🔍 If I haven’t mastered it yet, I’ve probably scheduled it for next week
+## Current Focus
 
+- Building full-stack systems in a 100 Days of Fullstack challenge  
+- Deep-diving into Java Spring Boot, PostgreSQL, and REST APIs  
+- Working with CI/CD pipelines, GitHub Actions, Docker, and Terraform  
+- Learning AWS infrastructure hands-on (IAM, EC2, S3, VPC, Lambda)  
+- Developing real-world apps using React + FastAPI
 
-## 🚀 Projects & Explorations
+## Selected Projects
 
-- ✈️ **Explore Singapore** – Microservices-based travel platform using **Node.js**, **FastAPI**, **Docker**, **NGINX**
-- 🧠 **Automatic Post-Editing for Translation** – GPT-powered + TM-optimized APE system with XML workflows
-- 🛍️ **TradePort** – University-grade **.NET** e-commerce app (microservice architecture, CI/CD ready)
-- 🚗 **Smart Vehicle Telematics** – MISRA-compliant C++ modules for automotive Linux platforms
-- 🤖 **ADAM Robotics Dashboard** – Real-time ROS visualizer with GitHub Actions + container-based pipelines
+| Project                   | Stack & Focus                                                                 |
+|---------------------------|------------------------------------------------------------------------------|
+| Explore Singapore         | Node.js, FastAPI, Docker, NGINX – Microservices-based travel app             |
+| TradePort                 | .NET Core, PostgreSQL – E-commerce microservice architecture with CI/CD      |
+| Smart Vehicle Telematics | MISRA C++, CMake – Embedded modules for automotive Linux                     |
+| ADAM Robotics Dashboard   | ROS, Docker, GitHub Actions – Real-time telemetry data visualizer            |
 
+## Tech Toolbox
 
-## 🛠️ My Tech Toolbox
+| Category                   | Tools & Tech                                                                       |
+|----------------------------|-------------------------------------------------------------------------------------|
+| Languages                  | Java, C++, Python, JavaScript, TypeScript, Shell                                   |
+| Frontend                   | React, Vite, Tailwind CSS, TipTap, Figma                                            |
+| Backend                    | Spring Boot, FastAPI, Node.js, Express.js, .NET Core                               |
+| Databases                  | PostgreSQL, MongoDB, MS SQL, Redis                                                 |
+| DevOps & Infrastructure    | Docker, Docker Compose, GitHub Actions, Kubernetes, Azure DevOps, DigitalOcean     |
+| Infra as Code              | Terraform, Ansible, GitHub CLI, Git                                                |
+| Auth & Security            | JWT, OAuth2, RBAC, Auth0                                                           |
+| Testing & Quality          | JUnit, MockMVC, Vitest, XUnit, SonarQube, Snyk                                     |
+| Embedded & C++ Tooling     | CMake, Conan, GoogleTest, Yocto, Makefile, BitBake                                 |
+| Creative Tools             | Photoshop, Blender, Premiere Pro, Unity3D                                          |
 
-| Category                   | Tools & Technologies                                                                 |
-|----------------------------|--------------------------------------------------------------------------------------|
-| 💬 Languages               | Java, C++, Python, JavaScript, TypeScript, Shell                                    |
-| 🖥️ Frontend               | React, Vite, Tailwind CSS, Figma, TipTap Editor                                     |
-| 🌐 Backend                 | Node.js, Express.js, FastAPI, .NET Core, REST APIs                                  |
-| 🗃️ Databases              | MongoDB, PostgreSQL, MS SQL, Redis                                                  |
-| ⚙️ DevOps & Infrastructure | Docker, Docker Compose, Kubernetes, GitHub Actions, Azure DevOps, DigitalOcean   |
-| 🧱 Infrastructure as Code  | Terraform, Ansible, GitHub CLI, Git                                                 |
-| 🔐 Auth & Security         | Auth0, JWT, RBAC, OAuth2                                                            |
-| 🔧 Testing & Quality       | Vitest, XUnit, SonarQube, Snyk, ESLint                                              |
-| 💻 Embedded / C++ Workflow | CMake, Conan, GoogleTest, Visual Studio, Yocto, Makefile, BitBake                   |
-| 🎨 Creative Stack          | Photoshop, Lightroom, Premiere Pro, Blender, Unity                                 |
+## 2025 Goals
 
-## 🎯 2025 Roadmap
+- Complete my MTech in Software Engineering at NUS  
+- Launch Explore Singapore and supporting backend services to production  
+- Finish 100 Days of Fullstack with AWS deployment and system design  
+- Build robust CI/CD workflows with GitHub Actions, Terraform, and testing gates  
+- Strengthen hands-on AWS skills (VPC, EC2, S3, Lambda, IAM)
 
-- ✅ Complete **MSc in Software Engineering** @ NUS  
-- 🧪 Finish **100 Days of C++**, with deep dives into memory, smart pointers, templates, and testing  
-- 🚀 Launch **Explore Singapore** as a production-ready app  
-- ⚙️ Build advanced **CI/CD pipelines** with GitHub Actions + Terraform + Ansible  
-- 🔬 Apply robust **testing strategies** (unit, integration, end-to-end)  
-- 🚘 Deepen **C++ mastery** for embedded & automotive platforms  
+## Collaboration
 
+I'm open to collaboration on:
 
-## 💬 Let's Connect
+- Backend/API development (Java Spring Boot, Python, Node.js)  
+- DevOps pipelines and deployment workflows  
+- Embedded C++ projects on Linux platforms  
+- Full-stack systems with React + containerized services
 
-Open to collaboration on DevOps, C++/embedded systems, GenAI tooling, or full-stack experimentation.  
-Ping me if you want to debug, design, or dream bold things together.
+Feel free to reach out if you're working on something interesting or would like to exchange ideas.
 
----
+## Closing Note
 
-## ⚡ Fun Fact
-
-> *“I collect experiences—whether it’s scaling microservices, securing APIs, optimizing C++ for embedded Linux, or riding across new terrains with my better half. 🏍️💨”*
+I'm steadily working to bring structure, reliability, and clarity into the systems I build. From debugging embedded logs to writing testable APIs, I enjoy engineering solutions that work — and evolve.
