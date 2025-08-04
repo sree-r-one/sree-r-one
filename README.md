@@ -8,11 +8,17 @@ Currently on sabbatical from Continental to deepen my technical foundation and c
 
 ## My Background
 
-I started my career in manufacturing and testing at GLOBALFOUNDRIES, working closely with machine performance and yield optimization. Over time, I moved into system integration, DevOps, and eventually embedded C++ development at Continental, where I spent nearly 6 years across several roles.
+I started my career in manufacturing and testing at Globalfoundries, working as a technician, doing graveyard shifts. Over time, I moved into testing automotive components like seats, then as my circumstances took me a wild ride. Some paths were intentional, most accidental — through project management, machine vision, requirements engineering, AR/VR development for industrial systems, and system integration — before eventually landing in embedded C++ and DevOps. Currently I am working as a Software Engineer at Continental Automotive Singapore. 
 
-In early 2025, I took a sabbatical to pursue a full-time Master’s in Software Engineering at NUS, with the aim of strengthening my backend, cloud, and architecture skills — and building end-to-end production-grade systems with intention and clarity.
+I have always loved tinkering. Be it a toy or my bicycle or my motorcycle. I knew I was not the expert, then again, not everyone have to be one. But, I believe that the eye for appreciating the work and the craftsmanship in the mundane is something that I love the most. Looking around for that awe and wonder took me to the ultimate goldmine of Software Engineering. The definitive example of human ingenuity and abstraction, added a dose of chaos for good measure. 
 
-This profile tracks that transition: from operational support to product-focused software engineering.
+Now, I imagine myself like a Scout Cadet, mastering the skills and adding it to their toolchest, so that they can serve the community and build them tools that can help. I believe being swept up by the current of fate of time have accidentally taken me through a thorough journey of how industry works. I have learned on my own using blogs and online learning platforms for years. I have built countless simple applications, but gaps remained. I overhauled my note taking system to accommodate my influx of data. Then came age of AI, which supercharged my intake like cold air induction and weirdly I wanted to know more and learn how this system works in its engineered precision. 
+
+That led me here, at this point in time. 
+
+In early 2025, I took a sabbatical to pursue a full-time Master’s in Software Engineering at NUS, with the aim of strengthening my backend, cloud, and architecture skills — and building end-to-end production-grade systems with intention and clarity. I hope and believe that I can make it, standing shoulder to shoulder with exceptional peers in a worldclass University. Tall order for someone like me. But then again, all roads has led to this, and I have not come this far only to come this far. 
+
+
 
 ## Current Focus
 
