@@ -4,7 +4,7 @@
 📖 MTech in Software Engineering @ National University of Singapore  
 ⚓ Currently on sabbatical from Continental to deepen my technical foundation and complete my Master’s.
 
-[![My Learning Roadmap](https://roadmap.sh/card/tall/67e87c5d08b58aed6c960ad1?variant=light&roadmaps=api-design%2Ctypescript%2Cdevops%2Ccpp)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67e87c5d08b58aed6c960ad1?variant=light&roadmaps=java%2Cspring-boot%2Cpython%2Cdevops)](https://roadmap.sh)
 
 ## My Background
 
