@@ -8,7 +8,7 @@
 
 ## My Background
 
-I started my career in manufacturing and testing at Globalfoundries, working as a technician, doing graveyard shifts. Over time, I moved into testing automotive components like seats, then as my circumstances took me a wild ride. Some paths were intentional, most accidental — through project management, machine vision, requirements engineering, AR/VR development for industrial systems, and system integration — before eventually landing in embedded C++ and DevOps. Currently I am working as a Software Engineer at Continental Automotive Singapore. 
+I started my career in manufacturing and testing at Globalfoundries, working as a technician, doing graveyard shifts. Over time, I moved into testing automotive components like seat control units (SCUs), then as my circumstances took me a wild ride. Some paths were intentional, most accidental — through project management, machine vision, requirements engineering, AR/VR development for industrial systems, and system integration — before eventually landing in embedded C++ and DevOps. Currently I am working as a Software Engineer at Continental Automotive Singapore. 
 
 I have always loved tinkering. Be it a toy or my bicycle or my motorcycle. I knew I was not the expert, then again, not everyone have to be one. But, I believe that the eye for appreciating the work and the craftsmanship in the mundane is something that I love the most. Looking around for that awe and wonder took me to the ultimate goldmine of Software Engineering. The definitive example of human ingenuity and abstraction, added a dose of chaos for good measure. 
 
