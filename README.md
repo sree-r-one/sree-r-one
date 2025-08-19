@@ -1,10 +1,13 @@
 # Hi there, Sree here!
-
 🟩 Software Engineer | Backend & DevOps Practitioner | Embedded Systems Explorer  
 📖 MTech in Software Engineering @ National University of Singapore  
 ⚓ Currently on sabbatical from Continental to deepen my technical foundation and complete my Master’s.
 
+---
+
 [![roadmap.sh](https://roadmap.sh/card/wide/67e87c5d08b58aed6c960ad1?variant=light&roadmaps=java%2Cspring-boot%2Cpython%2Cdevops)](https://roadmap.sh)
+
+---
 
 ## My Background
 
