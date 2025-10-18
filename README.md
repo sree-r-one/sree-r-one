@@ -5,6 +5,10 @@
 
 A Software Engineer focused on building scalable full-stack systems and robust DevOps pipelines. I am currently a full-time **MTech in Software Engineering** student at the **National University of Singapore (NUS)**, taking a sabbatical to deepen my expertise in cloud architecture and system design.
 
+### Interest, Practice, Purpose, Hope AKA Grit
+
+![My GitHub Contribution Graph](https://ghchart.rshah.org/sree-r-one)
+
 ### My Journey
 
 I started my career with hands-on hardware experience as a manufacturing technician at **Globalfoundries**. This work sparked my curiosity about the software that powers complex systems, leading me to the automotive industry at **Continental**.
