@@ -9,7 +9,7 @@ A Software Engineer with a passion for building scalable full-stack systems and 
 
 ### My Journey: From Factory Floor to Full-Stack
 
-My path to software engineering wasn't a straight line—it was a journey of exploration that began on the factory floor. I started my career working graveyard shifts as a technician in semiconductor manufacturing at **Globalfoundries**. Surrounded by some of the most complex and automated machinery in the world, I became fascinated with the intricate systems that made it all possible. This experience instilled in me a deep appreciation for how technology works at a fundamental level.
+My path to software engineering wasn't a straight line. It was a journey of exploration that began on the factory floor. I started my career working graveyard shifts as a technician in semiconductor manufacturing at **Globalfoundries**. Surrounded by some of the most complex and automated machinery in the world, I became fascinated with the intricate systems that made it all possible. This experience instilled in me a deep appreciation for how technology works at a fundamental level.
 
 This curiosity led me on a serendipitous path through the automotive industry at **Continental**. I moved from testing embedded automotive components to broader roles in project management, machine vision, and even AR/VR development for industrial systems. Each role was a piece of a larger puzzle, giving me a unique, holistic view of the engineering lifecycle—from hardware testing and systems integration to the end-user experience.
 
