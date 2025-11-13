@@ -13,9 +13,9 @@ A Software Engineer focused on building scalable full-stack systems and robust D
 
 I started my career with hands-on hardware experience as a manufacturing technician at **Globalfoundries**. This work sparked my curiosity about the software that powers complex systems, leading me to the automotive industry at **Continental**.
 
-My path wasn't linear. I intentionally moved through diverse roles—from testing embedded components to requirements engineering, machine vision, and AR/VR development. This journey gave me a unique, ground-up perspective on the entire engineering lifecycle.
+My path wasn't linear as I stumbled through diverse roles, from testing embedded components to requirements engineering, machine vision, and AR/VR development. This journey gave me a unique, ground-up perspective on the entire engineering lifecycle.
 
-I found my calling in building the systems themselves, which led me to specialize in embedded C++ and DevOps. To round out my practical experience with a stronger theoretical foundation in backend architecture, I am now pursuing my Master's at NUS.
+I found my passion in building the systems themselves, which led me to specialize in embedded C++ and DevOps. To round out my practical experience with a stronger theoretical foundation in backend architecture, I am now pursuing my Master's at NUS.
 
 ### 🚀 What I'm Currently Focused On
 
