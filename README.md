@@ -17,18 +17,18 @@ That's what I really enjoy: designing clean, testable microservices and the pipe
 
 ### 🚀 What I'm Currently Focused On
 
-Backend systems: Building with Java/Spring Boot, FastAPI, and Node.js. I care about making things maintainable and actually testable.
-Infrastructure & DevOps: Writing Kubernetes manifests, Docker Compose setups, and CI/CD pipelines. Mostly using GitHub Actions and Terraform.
-Cloud fundamentals: Working through AWS (IAM, VPC, EC2, Lambda, S3) to understand how to actually deploy resilient systems.
+- Backend systems: Building with Java/Spring Boot, FastAPI, and Node.js. I care about making things maintainable and actually testable.
+- Infrastructure & DevOps: Writing Kubernetes manifests, Docker Compose setups, and CI/CD pipelines. Mostly using GitHub Actions and Terraform.
+- Cloud fundamentals: Working through AWS (IAM, VPC, EC2, Lambda, S3) to understand how to actually deploy resilient systems.
 
 
 ### 🛠️ My Tech Toolbox
-Languages: Java, Python, TypeScript, C++, shell scripting
-Backend: Spring Boot, FastAPI, Express.js
-Frontend: React, TypeScript, Tailwind, shadcn/ui
-Data: PostgreSQL, MongoDB, Redis, pgvector
-DevOps: Docker, Kubernetes, GitHub Actions, Terraform
-Testing & quality: JUnit, MockMVC, Vitest, SonarQube, Snyk
+- Languages: Java, Python, TypeScript, C++, shell scripting
+- Backend: Spring Boot, FastAPI, Express.js
+- Frontend: React, TypeScript, Tailwind, shadcn/ui
+- Data: PostgreSQL, MongoDB, Redis, pgvector
+- DevOps: Docker, Kubernetes, GitHub Actions, Terraform
+- Testing & quality: JUnit, MockMVC, Vitest, SonarQube, Snyk
 
 
 ### 🌱 I'm Open to Collaboration On
