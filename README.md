@@ -7,13 +7,13 @@
 
 ![My GitHub Contribution Graph](https://ghchart.rshah.org/sree-r-one)
 
-I build software and the systems that keep it running. I've spent the last 15 years learning how things work—starting from the physical hardware in a factory to the complex code in the cloud. My work is guided by a simple idea: Grit. To me, that means staying curious, practicing my craft, and always having hope that I can solve the next problem.
+I build software and the systems that keep it running. I've spent the last 15 years learning how things work - starting from the physical hardware in a factory to the complex code in the cloud. My work is guided by a simple idea: Grit. To me, that means staying curious, practicing my craft, and always having hope that I can solve the next problem.
 
 I am currently a student at NUS, working on my MTech in Software Engineering. I'm taking what I've learned in the real world and combining it with better ways to build scalable, smart software.
 
 ## A Different Perspective
 
-For a long time, I felt like my journey to software engineering was taking forever—like that famous runway in Fast and Furious 6 that never seems to end. I used to think I was at odds with the world because I wasn't moving as fast as everyone else.
+For a long time, I felt like my journey to software engineering was taking forever - like that famous runway in Fast and Furious 6 that never seems to end. I used to think I was at odds with the world because I wasn't moving as fast as everyone else.
 
 But I eventually realized that the "long runtime" of my career was actually a gift. I've spent significant time writing technical documents, talking to stakeholders, and sitting through rigorous audits to help secure quality gate checks. These experiences taught me a vital lesson: beneath all the hype, software engineering is really a form of people engineering. It isn't just about how fast we can build; it's about understanding requirements, building trust, and the love that goes into making something useful. In that process, strangers often become your trusted partners. No matter the tools used, the goal is always the same: to make something that truly helps the person on the other side of the screen solve a real problem.
 
