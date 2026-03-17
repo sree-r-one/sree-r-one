@@ -1,7 +1,7 @@
 # Hi there, Sree here! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sree--Raj--One-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sree-raj-one)
-[![Email](https://img.shields.io/badge/Email-sreeraj__ec%40hotmail.com-red?style=flat&logo=microsoftoutlook)](mailto:sreeraj_ec@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-sreeraj__ec%40hotmail.com-red?style=flat&logo=microsoftoutlook)](mailto:sreeraj_ec@outlook.com)
 
 I build full-stack systems and the infrastructure they run on. Currently doing my MTech in Software Engineering at NUS, where I'm diving deep into backend architecture, distributed systems, and DevOps after spending 5+ years building real things at Continental in the automotive space.
 
