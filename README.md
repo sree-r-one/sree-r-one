@@ -3,11 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sree--Raj--One-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sree-raj-one)
 [![Email](https://img.shields.io/badge/Email-sreeraj__ec%40outlook.com-red?style=flat&logo=microsoftoutlook)](mailto:sreeraj_ec@outlook.com)
 
-### Interest, Practice, Purpose, Hope AKA Grit
+# Interest, Practice, Purpose, Hope AKA Grit
 
 ![My GitHub Contribution Graph](https://ghchart.rshah.org/sree-r-one)
-
-# Software Engineer | MTech Student at NUS | A Builder at Heart
 
 I build software and the systems that keep it running. I've spent the last 15 years learning how things work—starting from the physical hardware in a factory to the complex code in the cloud. My work is guided by a simple idea: Grit. To me, that means staying curious, practicing my craft, and always having hope that I can solve the next problem.
 
