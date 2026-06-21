@@ -29,7 +29,7 @@ But I eventually realized that the "long runtime" of my career was actually a gi
 
 I'm currently at NUS ISS, focusing on the "big picture" of modern software:
 
-1. **Good Design:** I use Java and Spring Boot to build backend systems that are clean, easy to read, and reliable to test.
+1. **Good Design:** I use Python, Java and Spring Boot to build backend systems that are clean, easy to read, and reliable to test.
 2. **Scalable Architecture:** I study how to build systems that remain stable even when thousands of people use them at once.
 3. **Agentic AI:** I'm currently building AI Agents. These aren't just chatbots; they are tools designed to think through tasks and help automate complex workflows.
 4. **Product Craft:** I believe software should solve a real human problem. I spend my time thinking about how to make tools that people actually find helpful in their daily lives.
